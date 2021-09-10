@@ -1,0 +1,25 @@
+1. Trainingsdaten laden.
+
+2. Daten aufbereiten:
+	-Umwandeln der kategorischen- in numerische Werte (Dummyvariablen)
+	-Filtern redundanter Dummyvariablen
+
+3. Korrelationen zwischen Targetvariablen und den einzelnen Features sichtbar machen (Heatmap).
+
+4. Aufsplitten des Trainingssets in X (Features) und y (target).
+
+5. Anlegen des Modells und vorläufige Einschätzung von dessen Genauigkeit
+
+6. Polynomiale Regression anwenden und vorläufige Einschätzung von deren Genauigkeit
+
+7. Daten scalieren und prüfen, ob hierdurch die Genauigkeit erhöht wird.
+
+8. Gesplittete Daten transformieren
+
+9. Modell trainieren und anwenden
+
+14. Akkuratesse per Score messen.
+
+15. Beantwortung der Kernfrage.
+
+16. Ergebnis analysieren.
